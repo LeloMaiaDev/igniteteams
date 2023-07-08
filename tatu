@@ -1,0 +1,29 @@
+[33mcommit 68c036d14aa199b2eb39b6210a4e440631ff3159[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Lelo Maia <lelo@tonavilla.com.br>
+Date:   Sat Jul 8 19:01:47 2023 -0300
+
+    Conflito de tipagens resolvido. Theme está sendo reconhecido pela aplicação.
+
+[33mcommit 3aacea40c7ccc6d90d540908a60b06e7225fbcb0[m
+Author: Lelo Maia <lelo@tonavilla.com.br>
+Date:   Wed Jul 5 22:11:46 2023 -0300
+
+    Theme inserido e tipagens realizadas, porém a estilização não o reconhece.
+
+[33mcommit 7a6539498e03fff228a5bfc9869eaaa97f46b175[m
+Author: Lelo Maia <lelo@tonavilla.com.br>
+Date:   Wed Jul 5 13:32:17 2023 -0300
+
+    Styled-Components e suas tipagens instaladas com sucesso. O App não apresenta qualquer instabilidade.
+
+[33mcommit 269705674e682be665794c4ad5eb6e59daea08db[m
+Author: Lelo Maia <lelo@tonavilla.com.br>
+Date:   Wed Jul 5 12:26:09 2023 -0300
+
+    babel-plugin-module-resolver intalado e rodando perfeitamente. Esse plugin trata das importações da aplicação.
+
+[33mcommit afbb6c6ef2bcee5f5551a466f0f41f26697079e3[m
+Author: Lelo Maia <lelo@tonavilla.com.br>
+Date:   Wed Jul 5 12:15:35 2023 -0300
+
+    Projeto criado e organizado para iniciar o código.
